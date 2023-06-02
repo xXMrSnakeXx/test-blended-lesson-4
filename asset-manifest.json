@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test-blended-lesson-4/static/css/main.c3d5249d.css",
-    "main.js": "/test-blended-lesson-4/static/js/main.c01e43fe.js",
+    "main.js": "/test-blended-lesson-4/static/js/main.9625a2ff.js",
     "index.html": "/test-blended-lesson-4/index.html",
     "main.c3d5249d.css.map": "/test-blended-lesson-4/static/css/main.c3d5249d.css.map",
-    "main.c01e43fe.js.map": "/test-blended-lesson-4/static/js/main.c01e43fe.js.map"
+    "main.9625a2ff.js.map": "/test-blended-lesson-4/static/js/main.9625a2ff.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.c01e43fe.js"
+    "static/js/main.9625a2ff.js"
   ]
 }
